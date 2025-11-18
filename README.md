@@ -25,3 +25,18 @@ chmod +x encryptor.py
 Atau:
 
 python3 encryptor.py
+
+# SimpleEncryptor
+
+Tools sederhana untuk **enkripsi dan dekripsi teks** menggunakan Caesar Cipher.
+Tujuan: edukasi keamanan siber dan pembelajaran kriptografi.
+
+## Cara Pakai
+1. Jalankan `encryptor.py`
+2. Pilih Enkripsi (1) atau Dekripsi (2)
+3. Masukkan teks dan key (angka)
+4. Lihat hasilnya
+
+## Catatan
+- Tools ini **hanya untuk pembelajaran**.
+- Tidak untuk membuka ransomware atau menyerang sistem orang lain.
